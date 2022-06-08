@@ -1,0 +1,22 @@
+{
+  "name": "docker-ci-cd",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000d\u0000o\u0000c\u0000k\u0000e\u0000r\u0000-\u0000C\u0000I\u0000-\u0000C\u0000D\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fundhaa/docker-CI-CD.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fundhaa/docker-CI-CD/issues"
+  },
+  "homepage": "https://github.com/fundhaa/docker-CI-CD#readme",
+  "dependencies": {
+    "finalhandler": "^1.2.0"
+  }
+}
